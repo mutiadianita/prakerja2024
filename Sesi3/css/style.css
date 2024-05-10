@@ -1,0 +1,17 @@
+/* Selector Element h2 */
+h2 {
+    color: red;
+    background-color: #a3c534;
+} 
+/* Selector ID sesi4 */
+#sesi4 {
+    background-color: burlywood;
+}
+/* Selector Class teks-ungu */
+.teks-ungu {
+    color: purple;
+}
+/* Selector Class bg-biru */
+.bg-biru {
+    background-color: lightblue;
+}
